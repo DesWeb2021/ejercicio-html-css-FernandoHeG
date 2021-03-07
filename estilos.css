@@ -90,8 +90,8 @@ th, td{
     font-family: "Blitter-Italic-Variable";
  }
 
- #UASLP{
-    height: 200px;
-    width: 450px;
+ #frameImages{
+    height: 400px;
+    width: 650px;
     margin-top: 10px;
  }
